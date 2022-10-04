@@ -4,3 +4,11 @@
 연결 확인: git remote -v
 연결 해제: git remote remove 이름
 연결 추가: git remote add 이름
+자료 업로드: git add 이름 -> git commit -m "수정사항" -> git push
+손진효3장
+나4장
+김우석5장
+
+.md -> markdown
+markdown editor program? 
+typora
